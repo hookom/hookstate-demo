@@ -1,0 +1,7 @@
+.errorButton {
+    padding: 7px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    letter-spacing: .5px;
+    border: 1px solid white;
+}

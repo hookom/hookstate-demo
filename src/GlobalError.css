@@ -1,0 +1,17 @@
+.globalError {
+    background-color: rgb(249, 194, 80);
+    position: absolute;
+    padding: 5px 0;
+    width: 100%;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 0;
+    overflow: hidden;
+    box-shadow: 0 0 5px black;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+    z-index: 10;
+  }
+  .noError {
+    display: none;
+  }
